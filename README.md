@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morti
 - 👀 I’m interested in coding ;)
-- 🌱 I’m currently learning spanish and Javascript. 
+- 🌱 I’m currently learning spanish and Java. 
 - 💞️ I’m looking to collaborate on a StartUP 
 - 📫 How to reach me: murtazahassani085@gmail.com
 - 😄 Pronouns: he/him
